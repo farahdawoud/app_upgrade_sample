@@ -8,7 +8,7 @@ function App(): JSX.Element {
   const appInfo = {
     appId: 'id428927940', // Your app url in play store or app store
     appName: 'Demo', // Your app name
-    appVersion: '0.1.0', // Your app version
+    appVersion: '0.1.0', // Your app version, you can get it using react-native-device-info
     platform: 'android', // App Platform, android or ios
     environment: 'dev', // App Environment, production, development
     appLanguage: 'en', //Your app language ex: en, es etc. Optional.
