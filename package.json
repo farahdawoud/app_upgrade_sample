@@ -12,7 +12,8 @@
   "dependencies": {
     "app-upgrade-react-native-sdk": "^1.0.12",
     "react": "18.2.0",
-    "react-native": "0.71.3"
+    "react-native": "0.71.3",
+    "react-native-device-info": "^10.4.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
