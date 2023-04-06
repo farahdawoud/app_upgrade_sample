@@ -1,6 +1,6 @@
 # app_upgrade_sample
 
-This is a sample React Native app that demonstrates how to integrate with an App Upgrade tool to manage app versions and check for whether we should enforce force upgrade, force upgrade, or nothing using its SDK.
+This is a sample React Native app that demonstrates how to integrate with an App Upgrade tool to manage app versions and check for whether we should enforce force upgrade, flexible upgrade, or no update at all using its SDK.
 
 # Requirements
 To run the app, you will need to have the following installed on your machine:
